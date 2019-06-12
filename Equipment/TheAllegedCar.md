@@ -1,6 +1,6 @@
 ## Information
-- **Frame**: [Pliss Korp](PlissKorp.MD) COBRA™ (Car)
-- **Built By**: [Pliss Korp](PlissKorp.MD)
+- **Frame**: [Pliss Korp](../Corporations/PlissKorp.MD) COBRA™ (Car)
+- **Built By**: [Pliss Korp](../Corporations/PlissKorp.MD)
 - **Purpose**: Civilian
 - **Profile**
   - _Power_: 1 - Responsive

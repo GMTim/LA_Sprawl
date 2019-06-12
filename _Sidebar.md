@@ -1,6 +1,0 @@
-- [Home](index.md)
-- [Characters](Characters/Characters.md)
-- [Contacts](Contacts.md)
-- [Corporations](Corporations.md)
-- [Locations](Locations.md)
-- [Other Organizations](Other-Organizations.md)

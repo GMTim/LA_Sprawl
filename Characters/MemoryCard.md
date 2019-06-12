@@ -12,16 +12,16 @@
 - **Synth**: -1
 
 ## Directives
-- **Network**: When your membership in [Delete System 32](../DeleteSystem32.md) hinders the mission, mark experience.
-- **Protective**: When you put your responsibilities to [Delete System 32](../DeleteSystem32.md) ahead of the mission, mark experience.
+- **Network**: When your membership in [Delete System 32](../OtherOrganizations/DeleteSystem32.md) hinders the mission, mark experience.
+- **Protective**: When you put your responsibilities to [Delete System 32](../OtherOrganizations/DeleteSystem32.md) ahead of the mission, mark experience.
 
 ## Cyberware 
 - : Cybercoms (`+encrypted` `+recording`)
 _Why_: Enthusiasm (+hardware decay)
 
 ## Contacts
-- **[Cool Dennis](../CoolDennis.md)**: 
-- **[Tuco](../Tuco.md)**: 
+- **[Cool Dennis](../Contacts/CoolDennis.md)**: 
+- **[Tuco](../Contacts/Tuco.md)**: 
 
 ## Links
 - **[Kid](Kid.md)**: +1
@@ -31,6 +31,6 @@ _Why_: Enthusiasm (+hardware decay)
 - **Back Up**
 
 ## Special Equipment
-- [Mondo Corp](../MondoCorp.md) Lil’ Crime Stopper™: Holdout Pistol
+- [Mondo Corp](../Corporations/MondoCorp.md) Lil’ Crime Stopper™: Holdout Pistol
 - Motorcycle
-- [Mondo Corp](../MondoCorp.md) Private Party Starter Set™: Communications Gear (+encrypted)
+- [Mondo Corp](../Corporations/MondoCorp.md) Private Party Starter Set™: Communications Gear (+encrypted)
