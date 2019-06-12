@@ -1,5 +1,5 @@
 - [Home](index.md)
-- [Characters](Characters.md)
+- [Characters](Characters/Characters.md)
 - [Contacts](Contacts.md)
 - [Corporations](Corporations.md)
 - [Locations](Locations.md)

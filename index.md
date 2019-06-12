@@ -1,10 +1,10 @@
 # LA Sprawl
 
-## [Characters](Characters.md)
-- [Franklin Douglass](FranklinDouglass.md)
-- [Kid](Kid.md)
-- [Jonny C. Vid](JonnyCVid.md)
-- [Memory Card](MemoryCard.md)
+## [Characters](Characters/Characters.md)
+- [Franklin Douglass](Characters/FranklinDouglass.md)
+- [Kid](Characters/Kid.md)
+- [Jonny C. Vid](Characters/JonnyCVid.md)
+- [Memory Card](Characters/MemoryCard.md)
 
 ## [Contacts](Contacts.md)
 - [Abbott](Abbott.md)

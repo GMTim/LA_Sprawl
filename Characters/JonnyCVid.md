@@ -12,17 +12,17 @@
 
 ## Directives
 - **Compassionate**: When you put your compassion for the powerless ahead of the mission, mark experience.
-- **Vengeful**: When your harm [Horizon LLD](HorizonLLD.md) or their interests, mark experience.
+- **Vengeful**: When your harm [Horizon LLD](../HorizonLLD.md) or their interests, mark experience.
 
 ## Cyberware
-- **[Skin & Sin](SkinAndSin.md) Peepers™**: Cybereyes (`+light amplification` `+recording`)
+- **[Skin & Sin](../SkinAndSin.md) Peepers™**: Cybereyes (`+light amplification` `+recording`)
 _Why_: 
 - : Cybercoms (`+encrypted` `+jamming`)
 
 
 ## Contacts
-- **[Abbott](Abbott)**: 
-- **[Grandfather Trung](GrandfatherTrung.md)**: 
+- **[Abbott](../Abbott)**: 
+- **[Grandfather Trung](../GrandfatherTrung.md)**: 
 
 ## Links
 - **[Kid](Kid.md)**: +1
@@ -32,6 +32,6 @@ _Why_:
 - **War Correspondent**
 
 ## Special Equipment
-- [Horizon](HorizonLLD.md) Lockdown™: Encrypted communications equipment
-- [Skin & Sin](SkinAndSin.md) Safe Word™: Hand Taser
-- [Skin & Sin](SkinAndSin.md) Good Shit™: Trauma Derms
+- [Horizon](../HorizonLLD.md) Lockdown™: Encrypted communications equipment
+- [Skin & Sin](../SkinAndSin.md) Safe Word™: Hand Taser
+- [Skin & Sin](../SkinAndSin.md) Good Shit™: Trauma Derms
