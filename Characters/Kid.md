@@ -8,7 +8,7 @@
 
 ## Stats
 Name | Score
------|------
+---- | -----
 Cool | +2
 Edge | 0
 Meat | +1
