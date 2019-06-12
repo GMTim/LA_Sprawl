@@ -12,3 +12,5 @@
 - Mondo X-Nerve™: Synthetic Nerves
 ### Weapons
 - Mondo Corp Lil’ Crime Stopper™: Holdout Pistol
+
+#### [Home](Corporations.md)

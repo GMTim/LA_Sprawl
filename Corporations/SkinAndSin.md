@@ -11,3 +11,5 @@
 - Skin & Sin Good Shit™: Trauma Derms
 ### Weapons
 - Skin & Sin Safe Word™: Hand Taser
+
+#### [Home](Corporations.md)

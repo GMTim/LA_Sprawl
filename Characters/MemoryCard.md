@@ -34,3 +34,5 @@ _Why_: Enthusiasm (+hardware decay)
 - [Mondo Corp](../Corporations/MondoCorp.md) Lil’ Crime Stopper™: Holdout Pistol
 - Motorcycle
 - [Mondo Corp](../Corporations/MondoCorp.md) Private Party Starter Set™: Communications Gear (+encrypted)
+
+#### [Home](Characters.md)

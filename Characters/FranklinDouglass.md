@@ -21,3 +21,5 @@
 ## Moves
 
 ## Special Equipment
+
+#### [Home](Characters.md)

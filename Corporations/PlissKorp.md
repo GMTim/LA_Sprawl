@@ -12,3 +12,5 @@
 ### Weapons
 - Pliss Korp Crime Stopper™: Heavy Pistol
 - Pliss Korp Enforcer™: Holdout Pistol
+
+#### [Home](Corporations.md)
