@@ -1,4 +1,4 @@
 ## Locations
-- [Big Catch Bar](/GMTim/SprawlLAGame/wiki/Big-Catch-Bar)
-- [Happy Cow](/GMTim/SprawlLAGame/wiki/Happy-Cow)
-- [Crashpad](/GMTim/SprawlLAGame/wiki/Crashpad)
+- [Big Catch Bar](BigCatchBar.md)
+- [Happy Cow](HappyCow.md)
+- [Crashpad](Crashpad.md)

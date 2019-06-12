@@ -6,8 +6,8 @@
 ### Clothing
 - Mondo X-Games™: Synth Leathers
 - Mondo Storm Stopper™: Armored Coat
-### Comunications
-- Mondo Corp Private Party Starter Set™: Comunications Gear (+encrypted)
+### Communications
+- Mondo Corp Private Party Starter Set™: Communications Gear (+encrypted)
 ### Cyberware
 - Mondo X-Nerve™: Synthetic Nerves
 ### Weapons

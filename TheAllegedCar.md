@@ -1,6 +1,6 @@
 ## Information
-- **Frame**: [Pliss Korp](/GMTim/SprawlLAGame/wiki/Pliss-Korp) COBRA™ (Car)
-- **Built By**: [Pliss Korp](/GMTim/SprawlLAGame/wiki/Pliss-Korp)
+- **Frame**: [Pliss Korp](PlissKorp.MD) COBRA™ (Car)
+- **Built By**: [Pliss Korp](PlissKorp.MD)
 - **Purpose**: Civilian
 - **Profile**
   - _Power_: 1 - Responsive
