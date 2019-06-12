@@ -1,14 +1,20 @@
 ## Basic Information
-- **Real Name**: Albert Rufus
-- **Playbook**: Reporter
+<dl>
+	<dt>Real Name</dt>
+	<dd>Albert Rufus</dd>
+	<dt>Playbook</dt>
+	<dd>Reporter</dd>
+</dl>
 
 ## Stats
-- **Cool**: 0
-- **Edge**: +2
-- **Meat**: -1
-- **Mind**: +1
-- **Style**: +1
-- **Synth**: 0
+Name | Score
+-----|------
+Cool | 0
+Edge | +2
+Meat | -1
+Mind | +1
+Style | +1
+Synth | 0
 
 ## Directives
 - **Compassionate**: When you put your compassion for the powerless ahead of the mission, mark experience.

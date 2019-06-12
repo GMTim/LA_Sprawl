@@ -1,15 +1,22 @@
 ## Basic Information
-- **Real Name**: Recoado Memoreto
-- **Playbook**: Fixer
-- **Known Aliases**: Memo
+<dl>
+	<dt>Real Name</dt>
+	<dd>Recoado Memoreto</dd>
+	<dt>Playbook</dt>
+	<dd>Fixer</dd>
+	<dt>Known Aliases</dt>
+	<dd>Memo</dd>
+</dl>
 
 ## Stats
-- **Cool**: 0
-- **Edge**: +2
-- **Meat**: +1
-- **Mind**: 0
-- **Style**: +1
-- **Synth**: -1
+Name | Score
+-----|------
+Cool | 0
+Edge | +2
+Meat | +1
+Mind | 0
+Style | +1
+Synth | -1
 
 ## Directives
 - **Network**: When your membership in [Delete System 32](../OtherOrganizations/DeleteSystem32.md) hinders the mission, mark experience.
