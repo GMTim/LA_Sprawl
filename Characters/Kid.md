@@ -1,3 +1,7 @@
+# Kid
+
+{{TOC}}
+
 ## Basic Information
 <dl>
 	<dt>Real Name</dt>
@@ -7,14 +11,12 @@
 </dl>
 
 ## Stats
-Name | Score
----- | -----
-Cool | +2
-Edge | 0
-Meat | +1
-Mind | 0
-Style | -1
-Synth | +1
+- **Cool**: `+2`
+- **Edge**: `0`
+- **Meat**: `+1`
+- **Mind**: `0`
+- **Style**: `-1`
+- **Synth**: `+1`
 
 ## Directives
 - **Intimate**: When you put your friend waitress from the diner ahead of the mission, mark experience.

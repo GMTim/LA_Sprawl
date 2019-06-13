@@ -1,3 +1,7 @@
+# Franklin Douglass
+
+{{TOC}}
+
 ## Basic Information
 <dl>
 	<dt>Real Name</dt>
@@ -7,14 +11,12 @@
 </dl>
 
 ## Stats
-Name | Score
----- | -----
-Cool |
-Edge |
-Meat |
-Mind |
-Style |
-Synth |
+- **Cool**: `-`
+- **Edge**: `-`
+- **Meat**: `-`
+- **Mind**: `-`
+- **Style**: `-`
+- **Synth**: `-`
 
 ## Directives
 

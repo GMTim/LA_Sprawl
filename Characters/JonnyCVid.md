@@ -1,3 +1,7 @@
+# Jonny C. Vid
+
+{{TOC}}
+
 ## Basic Information
 <dl>
 	<dt>Real Name</dt>
@@ -7,14 +11,12 @@
 </dl>
 
 ## Stats
-Name | Score
----- | -----
-Cool | 0
-Edge | +2
-Meat | -1
-Mind | +1
-Style | +1
-Synth | 0
+- **Cool**: `0`
+- **Edge**: `+2`
+- **Meat**: `-1`
+- **Mind**: `+1`
+- **Style**: `+1`
+- **Synth**: `0`
 
 ## Directives
 - **Compassionate**: When you put your compassion for the powerless ahead of the mission, mark experience.

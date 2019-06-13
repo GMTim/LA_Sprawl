@@ -1,3 +1,7 @@
+# Memory Card
+
+{{TOC}}
+
 ## Basic Information
 <dl>
 	<dt>Real Name</dt>
@@ -9,14 +13,12 @@
 </dl>
 
 ## Stats
-Name | Score
----- | -----
-Cool | 0
-Edge | +2
-Meat | +1
-Mind | 0
-Style | +1
-Synth | -1
+- **Cool**: `0`
+- **Edge**: `+2`
+- **Meat**: `+1`
+- **Mind**: `0`
+- **Style**: `+1`
+- **Synth**: `-1`
 
 ## Directives
 - **Network**: When your membership in [Delete System 32](../OtherOrganizations/DeleteSystem32.md) hinders the mission, mark experience.
