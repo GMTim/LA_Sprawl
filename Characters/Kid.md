@@ -43,6 +43,7 @@ _Why_: Necessity
 
 ## Special Equipment
 - [The Alleged Car](../Equipment/TheAllegedCar.md)
+- [Mondo](../Corporations/MondoCorp.md) Eye In The Sky™: Drone
 - [Mondo](../Corporations/MondoCorp.md) X-Games™: Synth Leathers
 - [Pliss Korp](../Corporations/PlissKorp.md) Crime Stopper™: Heavy Pistol
 

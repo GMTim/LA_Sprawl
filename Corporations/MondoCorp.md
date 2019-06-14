@@ -10,6 +10,8 @@
 - Mondo Corp Private Party Starter Set™: Communications Gear (+encrypted)
 ### Cyberware
 - Mondo X-Nerve™: Synthetic Nerves
+### Drones
+- Mondo Korp Eye In The Sky™
 ### Weapons
 - Mondo Corp Lil’ Crime Stopper™: Holdout Pistol
 
