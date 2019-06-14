@@ -36,5 +36,9 @@ _Why_: Injured and needed skillwires to recover. Owned by [Pliss Korp](../Corpor
 - **Deadbeat**
 
 ## Special Equipment
+- **[Pliss Korp](../Corporations/PlissKorp.md) Enforcer™**: Holdout Pistol
+- **[Joy Co.](../Corporations/JoyCo) Tranquilizer™**: Hand Taser
+- **[Mondo Corp](../Corporations/MondoCorp) Storm Stopper™**: Armored Coat
+- **[Joy Co.](../Corporations/JoyCo) Rinox-Leather™**: Armored Clothing 
 
 #### [Home](Characters.md)
