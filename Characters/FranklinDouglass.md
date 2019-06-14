@@ -23,14 +23,14 @@
 - **Compassionate**: When you put aiding the powerless ahead of the mission, mark experience.
 
 ## Cyberware
-- **(Pliss Korp)[../Corporations/PlissKorp.md] Helping Hands™**: Skillwires
-_Why_: Injured and needed skillwires to recover. Owned by (Pliss Korp)[../Corporations/PlissKorp.md]
+- **[Pliss Korp](../Corporations/PlissKorp.md) Helping Hands™**: Skillwires
+_Why_: Injured and needed skillwires to recover. Owned by [Pliss Korp](../Corporations/PlissKorp.md)
 
 ## Contacts
-- **(Ramon Wallace)[../Contacts/RamonWallace.md]**
+- **[Ramon Wallace](../Contacts/RamonWallace.md)**
 
 ## Links
-- **(Memory Card)[../Characters/MemoryCard.md]**: +1
+- **[Memory Card](../Characters/MemoryCard.md)**: +1
 
 ## Moves
 - **Deadbeat**
