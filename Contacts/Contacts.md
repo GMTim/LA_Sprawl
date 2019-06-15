@@ -11,7 +11,7 @@
 - [Martin Young](MartinYoung.md)
 - [Mr. Johnson](MrJohnson.md)
 - [Ramon Wallace](RamonWallace.md)
-- [Rebeca Stoneheart](RebecaStoneheart.md)
+- [Rebecca Stoneheart](RebeccaStoneheart.md)
 - [Tuco](Tuco.md)
 
 #### [Home](../index.md)

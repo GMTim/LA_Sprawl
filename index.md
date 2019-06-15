@@ -19,7 +19,7 @@
 - [Martin Young](Contacts/MartinYoung.md)
 - [Mr. Johnson](Contacts/MrJohnson.md)
 - [Ramon Wallace](Contacts/RamonWallace.md)
-- [Rebeca Stoneheart](Contacts/RebecaStoneheart.md)
+- [Rebecca Stoneheart](Contacts/RebeccaStoneheart.md)
 - [Tuco](Contacts/Tuco.md)
 
 ## [Corporations](Corporations/Corporations.md)
