@@ -14,6 +14,7 @@
 - [Dirk Jergens](Contacts/DirkJergens.md)
 - [Frank West](Contacts/FrankWest.md)
 - [Grandfather Trung](Contacts/GrandfatherTrung.md)
+- [Gurch](Contacts/Gurch.md)
 - [Margie](Contacts/Margie.md)
 - [Martin Young](Contacts/MartinYoung.md)
 - [Mr. Johnson](Contacts/MrJohnson.md)

@@ -6,6 +6,7 @@
 - [Dirk Jergens](DirkJergens.md)
 - [Frank West](FrankWest.md)
 - [Grandfather Trung](GrandfatherTrung.md)
+- [Gurch](Gurch.md)
 - [Margie](Margie.md)
 - [Martin Young](MartinYoung.md)
 - [Mr. Johnson](MrJohnson.md)
